@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=AtomX GKI
+kernel.string=Sweet GKI
 do.devicecheck=1
 do.modules=0
 do.systemless=1
